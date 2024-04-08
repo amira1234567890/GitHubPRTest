@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp44
 {
-    internal class Deleted
+    internal class Added
     {
-        // Path: Deleted.cs
-        //test1
-        //test``2
     }
 }
-//test1
