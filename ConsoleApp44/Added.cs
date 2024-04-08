@@ -8,14 +8,5 @@ namespace ConsoleApp44
 {
     internal class Added
     {
-        // Added a comment
-        // Added a comment
-
-
-
-
-
-
-        // Added a comment
     }
 }
