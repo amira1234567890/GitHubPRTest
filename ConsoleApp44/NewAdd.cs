@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp44
 {
-    internal class Delete
+    internal class NewAdd
     {
     }
 }
