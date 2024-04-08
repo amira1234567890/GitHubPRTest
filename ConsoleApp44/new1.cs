@@ -8,5 +8,8 @@ namespace ConsoleApp44
 {
     internal class new1
     {
+        // This is a comment
+        //  test2
+        // This is a comment
     }
 }

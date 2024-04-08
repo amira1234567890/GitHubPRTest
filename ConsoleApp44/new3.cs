@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp44
 {
-    internal class new2
+    internal class new3
     {
     }
 }
